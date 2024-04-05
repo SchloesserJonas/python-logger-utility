@@ -3,7 +3,6 @@ Colorcode your logs to easily identify them during runtime
 
 ### Setup
 Change the colors in the logger.py file if needed  
-Add new properties to LOG_COLORS to get more log levels  
 Otherwise no setup is needed, just import it and you are good to go!
 
 ### Usage
